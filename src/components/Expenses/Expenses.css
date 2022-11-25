@@ -5,3 +5,16 @@
   width: 50rem;
   max-width: 95%;
 }
+
+.no-found {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: solid rgb(122, 122, 122) 5px;
+  border-radius: 20px;
+}
+
+.no-found:hover {
+  background-color: rgb(72, 34, 125);
+}
