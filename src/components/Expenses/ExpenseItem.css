@@ -7,6 +7,11 @@
   background-color: #4b4b4b;
 }
 
+.expense-item:hover {
+  background-color: #971ad1;
+  padding-left: 20px;
+}
+
 .expense-item__description {
   display: flex;
   flex-direction: column;
