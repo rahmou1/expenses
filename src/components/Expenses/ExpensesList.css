@@ -1,0 +1,18 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+  background-color: #4b4b4b;
+  border-radius: 10px;
+  box-shadow: #971ad1 3px 3px 10px;
+  border: dotted #971ad1;
+}
+
+.expenses-list__fallback:hover {
+  text-shadow: #060505 3px 0px 10px;
+}
